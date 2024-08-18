@@ -5,8 +5,8 @@
 视频教程：▶ https://youtu.be/OqTVuJC-TIo
 
 ### 第一步：下载固件和SSH工具
-- 小米路由器 BE6500 Pro 固件 1.0.46 版本，<a href="https://github.com/eujc/lyq/releases/download/ROM/miwifi_rd08_firmware_076b5_1.0.46.bin" target="_blank">点击下载>></a>
-- 工具下载：<a href="https://github.com/eujc/lyq/releases/download/ROM/putty.zip" target="_blank">Putty下载>></a> ，MAC使用Termius，<a href="https://termius.com/download" target="_blank">点击下载>></a>
+- 小米路由器 BE6500 Pro 固件 1.0.46 版本，<a href="https://github.com/uyez/lyq/releases/download/rom/miwifi_rd08_firmware_076b5_1.0.46.bin" target="_blank">点击下载>></a>
+- 工具下载：<a href="https://github.com/uyez/lyq/releases/download/rom/putty.zip" target="_blank">Putty下载>></a> ，MAC使用Termius，<a href="https://termius.com/download" target="_blank">点击下载>></a>
 - 固件版本需要是1.0.46，如果不是这个版本，请使用 <a href="https://bigota.miwifi.com/xiaoqiang/tools/MIWIFIRepairTool.x86.zip" target="_blank">小米路由器修复工具</a> 完成固件降级，<a href="https://youtu.be/noBqKNq2MTk" target="_blank">降级教程</a>。
 
 ### 第二步：解锁SSH
